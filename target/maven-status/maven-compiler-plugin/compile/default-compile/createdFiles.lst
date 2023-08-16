@@ -1,9 +1,0 @@
-com/tmobs/aws/lambda/trigger/DatabaseSync.class
-com/tmobs/aws/lambda/trigger/SubscriptionTrigger.class
-com/tmobs/aws/crud/lambda/api/SubscripcionLambdaHandler.class
-com/tmobs/aws/crud/apicaller/PostMain.class
-com/tmobs/aws/crud/apicaller/Caller.class
-com/tmobs/aws/crud/lambda/api/model/Generic.class
-com/tmobs/aws/crud/lambda/api/GenericLambdaHandler.class
-com/tmobs/aws/crud/apicaller/GetMain.class
-com/tmobs/aws/crud/lambda/api/model/Subscripcion.class
