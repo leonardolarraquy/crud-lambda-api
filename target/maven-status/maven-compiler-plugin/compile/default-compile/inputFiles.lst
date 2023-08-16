@@ -1,0 +1,8 @@
+/Users/leonardo.larraquy/eclipse-workspace/crud-lambda-api/src/main/java/com/tmobs/aws/crud/apicaller/GetMain.java
+/Users/leonardo.larraquy/eclipse-workspace/crud-lambda-api/src/main/java/com/tmobs/aws/crud/apicaller/PostMain.java
+/Users/leonardo.larraquy/eclipse-workspace/crud-lambda-api/src/main/java/com/tmobs/aws/crud/lambda/api/model/Generic.java
+/Users/leonardo.larraquy/eclipse-workspace/crud-lambda-api/src/main/java/com/tmobs/aws/lambda/trigger/SubscriptionTrigger.java
+/Users/leonardo.larraquy/eclipse-workspace/crud-lambda-api/src/main/java/com/tmobs/aws/crud/lambda/api/model/Subscripcion.java
+/Users/leonardo.larraquy/eclipse-workspace/crud-lambda-api/src/main/java/com/tmobs/aws/crud/lambda/api/GenericLambdaHandler.java
+/Users/leonardo.larraquy/eclipse-workspace/crud-lambda-api/src/main/java/com/tmobs/aws/lambda/trigger/DatabaseSync.java
+/Users/leonardo.larraquy/eclipse-workspace/crud-lambda-api/src/main/java/com/tmobs/aws/crud/lambda/api/SubscripcionLambdaHandler.java
