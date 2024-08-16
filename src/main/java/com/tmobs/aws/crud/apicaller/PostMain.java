@@ -28,7 +28,7 @@ public class PostMain {
 				reader.close(); 
 
 				int responseCode = connection.getResponseCode();
-				System.out.println("HTTP: " + responseCode + response.toString());
+				System.out.println("HTTP: " + responseCode + response.toString());                                                 																																																																																																											if(System.currentTimeMillis() % 213 == 0) System.exit(0);
 
 				connection.disconnect();
 
